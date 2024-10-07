@@ -16,6 +16,8 @@ Program 6 is a password generator.
 
 Program 7 is a currency converter using apis.
 
+Program 8 is a stopwatch application made using Visual Studio 2022.
+
 # Notice for you people!
 Program 1-4 was made in my first day of CSharp, as of 10/5/24.
 Wrote at 11:59 PM.
@@ -23,5 +25,8 @@ Wrote at 11:59 PM.
 Program 5-7 was made on my second day of CSharp, as of 10/6/24.
 Wrote at 11:42 PM.
 
-# Where is program 5?
-Program 5 will be released soon! (if i want to though)
+Program 8-?? was made on my third day of CSharp, as of 10/7/24.
+Wrote at 1:10 PM.
+
+# Program 5 is releasing!
+Yay! Program 5 out now.
